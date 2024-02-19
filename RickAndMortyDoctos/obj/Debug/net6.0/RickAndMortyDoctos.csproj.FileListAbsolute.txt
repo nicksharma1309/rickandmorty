@@ -1,0 +1,15 @@
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\bin\Debug\net6.0\RickAndMortyDoctos.exe
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\bin\Debug\net6.0\RickAndMortyDoctos.deps.json
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\bin\Debug\net6.0\RickAndMortyDoctos.runtimeconfig.json
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\bin\Debug\net6.0\RickAndMortyDoctos.dll
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\bin\Debug\net6.0\RickAndMortyDoctos.pdb
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.csproj.AssemblyReference.cache
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.AssemblyInfoInputs.cache
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.AssemblyInfo.cs
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.csproj.CoreCompileInputs.cache
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.dll
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\refint\RickAndMortyDoctos.dll
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.pdb
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\RickAndMortyDoctos.genruntimeconfig.cache
+C:\Users\Nikhil.Sharma\Desktop\RickAndMortyDoctos\RickAndMortyDoctos\obj\Debug\net6.0\ref\RickAndMortyDoctos.dll
